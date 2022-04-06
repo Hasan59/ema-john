@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 10px 10px;
+}
+
+.product_design h5 {
+    color: blue;
+}
+
+.product_design {
+    margin-left: 30px;
+
+    font-weight: 400;
+}
+
+.main-button {
+    margin-bottom: 10px;
+    background-color: orange;
+    border-radius: 5px;
+    color: chartreuse;
+
+}
